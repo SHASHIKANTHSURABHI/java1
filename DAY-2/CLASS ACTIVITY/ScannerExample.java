@@ -20,3 +20,4 @@ public class ScannerExample {
         System.out.println("Percentage: " + percentage);
     }
 }
+
